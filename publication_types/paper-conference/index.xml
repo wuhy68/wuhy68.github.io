@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Haoyuan Wu&#39;s Homepage, CUHK-CSE</title>
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 07:04:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation</title>
+      <link>http://localhost:1313/publication/naacl25-edaid/</link>
+      <pubDate>Thu, 23 Jan 2025 07:04:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/naacl25-edaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment</title>
+      <link>http://localhost:1313/publication/iclr25-mgvga/</link>
+      <pubDate>Thu, 23 Jan 2025 03:44:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iclr25-mgvga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks</title>
+      <link>http://localhost:1313/publication/emnlp25-sparsecraft/</link>
+      <pubDate>Fri, 20 Sep 2024 23:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/emnlp25-sparsecraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models</title>
+      <link>http://localhost:1313/publication/aaai24-padapter/</link>
+      <pubDate>Tue, 19 Dec 2023 13:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/aaai24-padapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
