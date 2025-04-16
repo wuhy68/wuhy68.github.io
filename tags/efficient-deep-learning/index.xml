@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/efficient-deep-learning/</link>
       <atom:link href="http://localhost:1313/tags/efficient-deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Efficient Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 23:15:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:01:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Efficient Deep Learning</title>
       <link>http://localhost:1313/tags/efficient-deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Efficient OpAmp Adaptation for Zoom Attention to Golden Contexts</title>
+      <link>http://localhost:1313/publication/arxiv-opampadapter/</link>
+      <pubDate>Tue, 18 Feb 2025 00:01:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-opampadapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks</title>
