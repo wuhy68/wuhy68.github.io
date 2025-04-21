@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal | Haoyuan Wu&#39;s Homepage, CUHK-CSE</title>
+    <link>http://localhost:1313/tags/multimodal/</link>
+      <atom:link href="http://localhost:1313/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 13:05:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
+      <title>Multimodal</title>
+      <link>http://localhost:1313/tags/multimodal/</link>
+    </image>
+    
+    <item>
+      <title>p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models</title>
+      <link>http://localhost:1313/publication/aaai24-padapter/</link>
+      <pubDate>Tue, 19 Dec 2023 13:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/aaai24-padapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
