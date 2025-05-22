@@ -37,26 +37,10 @@
     </item>
     
     <item>
-      <title>Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation</title>
-      <link>http://localhost:1313/publication/naacl25-edaid/</link>
-      <pubDate>Thu, 23 Jan 2025 07:04:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/naacl25-edaid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks</title>
       <link>http://localhost:1313/publication/emnlp25-sparsecraft/</link>
       <pubDate>Fri, 20 Sep 2024 23:15:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/emnlp25-sparsecraft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChatEDA: A Large Language Model Powered Autonomous Agent for EDA</title>
-      <link>http://localhost:1313/publication/tcad24-chateda/</link>
-      <pubDate>Sat, 16 Mar 2024 18:19:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tcad24-chateda/</guid>
       <description></description>
     </item>
     
