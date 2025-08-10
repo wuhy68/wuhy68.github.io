@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Representation Learning | Haoyuan Wu&#39;s Homepage, CUHK-CSE</title>
+    <link>http://localhost:1313/tags/representation-learning/</link>
+      <atom:link href="http://localhost:1313/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Representation Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
+      <title>Representation Learning</title>
+      <link>http://localhost:1313/tags/representation-learning/</link>
+    </image>
+    
+    <item>
+      <title>Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table</title>
+      <link>http://localhost:1313/preprint/arxiv-circuitgen/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/preprint/arxiv-circuitgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment</title>
+      <link>http://localhost:1313/publication/iclr25-mgvga/</link>
+      <pubDate>Thu, 23 Jan 2025 03:44:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iclr25-mgvga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

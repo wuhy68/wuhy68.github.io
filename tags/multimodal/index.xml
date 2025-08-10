@@ -5,28 +5,12 @@
     <link>http://localhost:1313/tags/multimodal/</link>
       <atom:link href="http://localhost:1313/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
     <description>Multimodal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 13:05:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Multimodal</title>
       <link>http://localhost:1313/tags/multimodal/</link>
     </image>
-    
-    <item>
-      <title>Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table</title>
-      <link>http://localhost:1313/preprint/arxiv-circuitgen/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/preprint/arxiv-circuitgen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment</title>
-      <link>http://localhost:1313/publication/iclr25-mgvga/</link>
-      <pubDate>Thu, 23 Jan 2025 03:44:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/iclr25-mgvga/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models</title>
