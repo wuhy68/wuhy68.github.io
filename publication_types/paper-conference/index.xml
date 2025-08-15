@@ -14,25 +14,25 @@
     
     <item>
       <title>Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts</title>
-      <link>http://localhost:1313/preprint/arxiv-grovemoe/</link>
+      <link>http://localhost:1313/publication/arxiv-grovemoe/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/preprint/arxiv-grovemoe/</guid>
+      <guid>http://localhost:1313/publication/arxiv-grovemoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding</title>
-      <link>http://localhost:1313/preprint/arxiv-oorl/</link>
+      <link>http://localhost:1313/publication/arxiv-oorl/</link>
       <pubDate>Mon, 19 May 2025 05:25:00 +0000</pubDate>
-      <guid>http://localhost:1313/preprint/arxiv-oorl/</guid>
+      <guid>http://localhost:1313/publication/arxiv-oorl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving</title>
-      <link>http://localhost:1313/preprint/arxiv-totrl/</link>
+      <link>http://localhost:1313/publication/arxiv-totrl/</link>
       <pubDate>Mon, 19 May 2025 05:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/preprint/arxiv-totrl/</guid>
+      <guid>http://localhost:1313/publication/arxiv-totrl/</guid>
       <description></description>
     </item>
     
@@ -46,9 +46,9 @@
     
     <item>
       <title>Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table</title>
-      <link>http://localhost:1313/preprint/arxiv-circuitgen/</link>
+      <link>http://localhost:1313/publication/arxiv-circuitgen/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/preprint/arxiv-circuitgen/</guid>
+      <guid>http://localhost:1313/publication/arxiv-circuitgen/</guid>
       <description></description>
     </item>
     

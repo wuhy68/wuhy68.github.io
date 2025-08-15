@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:22:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Selected Publications</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts</title>
+      <link>http://localhost:1313/publication/arxiv-grovemoe/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-grovemoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding</title>
+      <link>http://localhost:1313/publication/arxiv-oorl/</link>
+      <pubDate>Mon, 19 May 2025 05:25:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-oorl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving</title>
+      <link>http://localhost:1313/publication/arxiv-totrl/</link>
+      <pubDate>Mon, 19 May 2025 05:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-totrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient OpAmp Adaptation for Zoom Attention to Golden Contexts</title>
       <link>http://localhost:1313/publication/acl25-opampadapter/</link>
       <pubDate>Thu, 15 May 2025 00:22:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/acl25-opampadapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architect of the Bits World: Masked Autoregressive Modeling for Circuit Generation Guided by Truth Table</title>
+      <link>http://localhost:1313/publication/arxiv-circuitgen/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-circuitgen/</guid>
       <description></description>
     </item>
     
