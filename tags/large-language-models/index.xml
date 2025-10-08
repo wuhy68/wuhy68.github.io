@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/large-language-models/</link>
       <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Large Language Models</title>
       <link>http://localhost:1313/tags/large-language-models/</link>
     </image>
+    
+    <item>
+      <title>One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient</title>
+      <link>http://localhost:1313/publication/arxiv-otr/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-otr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement Learning on Pre-Training Data</title>
