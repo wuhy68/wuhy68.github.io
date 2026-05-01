@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model</title>
+      <link>http://localhost:1313/publication/arxiv-llada2.0_uni/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-llada2.0_uni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diversity or Precision? A Deep Dive into Next Token Prediction</title>
       <link>http://localhost:1313/publication/arxiv-dorp/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
