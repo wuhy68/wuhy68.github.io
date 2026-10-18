@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/agentic-ai/</link>
       <atom:link href="http://localhost:1313/tags/agentic-ai/index.xml" rel="self" type="application/rss+xml" />
     <description>Agentic AI</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 07:04:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Agentic AI</title>
       <link>http://localhost:1313/tags/agentic-ai/</link>
     </image>
+    
+    <item>
+      <title>LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents</title>
+      <link>http://localhost:1313/publication/arxiv-llada_ui/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-llada_ui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation</title>

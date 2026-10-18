@@ -5,12 +5,28 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f6faf491d850b082.png</url>
       <title>Selected Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>More Than Seeing: Vision as Scalable Anchors in Native Multimodal Pre-Training</title>
+      <link>http://localhost:1313/publication/arxiv-vasa/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-vasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents</title>
+      <link>http://localhost:1313/publication/arxiv-llada_ui/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/arxiv-llada_ui/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling Native Multimodal Pre-Training From Scratch</title>
